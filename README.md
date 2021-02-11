@@ -5,8 +5,8 @@ Forecasting is the process of making predictions of the future based on past and
 ## Forecasting methods:-
 
 1)	If there are no data available, or if the data available are not relevant to the forecasts, then qualitative forecasting methods must be used.
-2)	Quantitative forecasting can be applied when two conditions are satisfied:
-      a)	numerical information about the past is available
+2)	Quantitative forecasting can be applied when two conditions are satisfied:\
+      a)	numerical information about the past is available\
       b)	it is reasonable to assume that some aspects of the past patterns will continue into the future.
       
 ## Forecasting model building methods:-
@@ -19,7 +19,7 @@ Forecasting is the process of making predictions of the future based on past and
 
 
 ## Data Used :
-            	Airlines dataset :- Forecast the passengers in the airlines depending on past and present data
+              Airlines dataset :- Forecast the passengers in the airlines depending on past and present data
               Coca cola sales raw dataset : Forecast cococola sales depending on past and present data
               Plastic sales dataset : Forecast sales of plastic depending on past and present data
               Amtrak dataset: Forecast Ridership depending on past and present data
